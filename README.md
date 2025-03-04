@@ -77,3 +77,8 @@ The script follows a structured approach to **load, preprocess, train, and evalu
 ✅ **It can be further improved by exploring deep learning models for better performance.**  
 
 Support & Learning: Throughout the project, I leveraged ChatGPT for assistance in debugging errors, and improving visualization techniques. It provided solutions to common issues and helped refine the workflow.
+
+*Output*
+
+![Image](https://github.com/user-attachments/assets/95699757-f3fe-445a-9aed-acf06e3ae2fa)
+
